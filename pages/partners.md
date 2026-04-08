@@ -24,11 +24,11 @@ If you are interested in becoming a TennesseeView partner, please [contact us](h
 :::{card}
 :header: Members
 
-- [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)
-- [Michael Camponovo](https://geography.utk.edu/people/instructional-faculty/camponovo-michael)
+- [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng) (PI)
+- [Michael Camponovo](https://geography.utk.edu/people/instructional-faculty/camponovo-michael) (Co-PI)
 - [Hannah Herrero](https://geography.utk.edu/people/instructional-faculty/herrero-hannah)
 - [Yingkui Li](https://geography.utk.edu/people/instructional-faculty/li-yingkui)
-- [Liem Tran](https://geography.utk.edu/people/instructional-faculty/tran-liem)
+- [Liem Tran](https://geography.utk.edu/people/instructional-faculty/tran-liem) 
 :::
 
 ::::
