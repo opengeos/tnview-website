@@ -36,14 +36,3 @@ Explore TNView web applications and interactive geospatial tools.
 If you are interested in becoming a TNView partner, please contact us.
 
 [Contact](pages/contact.md)
-
-## Research
-
-Representative TNView research visualizations from the live site:
-
-- [Web GIS thumbnail](https://tnview.utk.edu/wp-content/uploads/2022/03/webgis-thumbnail.jpg)
-- [NAIP thumbnail](https://tnview.utk.edu/wp-content/uploads/2022/03/naip-thumbnail.jpg)
-- [Connectivity thumbnail](https://tnview.utk.edu/wp-content/uploads/2022/03/connectivity-thumbnail.jpg)
-- [Tools thumbnail](https://tnview.utk.edu/wp-content/uploads/2022/03/tools-thumbnail.jpg)
-- [Map thumbnail](https://tnview.utk.edu/wp-content/uploads/2022/03/map-thumbnail.jpg)
-- [Sinkhole thumbnail](https://tnview.utk.edu/wp-content/uploads/2022/03/sinkhole-thumbnail.jpg)
