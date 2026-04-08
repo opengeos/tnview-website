@@ -10,23 +10,32 @@ The TennesseeView Consortium has **29** individuals from **15** entities across 
 
 If you are interested in becoming a TennesseeView partner, please [contact us](https://tnview.utk.edu/contact/).
 
-## Academic Institutions
+## Lead Institution
 
-::::{grid} 1 2 3 3
+::::{grid} 1 1 2 2
 
 :::{card}
 :header: University of Tennessee, Knoxville
-:footer: **Lead Institution**
-
 
 ![](./images/partners/UTK.webp)
 
-- [Hannah Herrero](https://geography.utk.edu/about-us/faculty/dr-hannah-herrero/)
-- [Liem Tran](https://geography.utk.edu/about-us/faculty/?page_id=420)
-- [Michael Camponovo](https://gislab.utk.edu)
-- [Qiusheng Wu](https://geography.utk.edu/about-us/faculty/dr-qiusheng-wu/)
-- [Yingkui Li](https://geography.utk.edu/about-us/faculty/?page_id=399)
 :::
+
+:::{card}
+:header: Members
+
+- [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)
+- [Michael Camponovo](https://geography.utk.edu/people/instructional-faculty/camponovo-michael)
+- [Hannah Herrero](https://geography.utk.edu/people/instructional-faculty/herrero-hannah)
+- [Yingkui Li](https://geography.utk.edu/people/instructional-faculty/li-yingkui)
+- [Liem Tran](https://geography.utk.edu/people/instructional-faculty/tran-liem)
+:::
+
+::::
+
+## Other Academic Institutions
+
+::::{grid} 1 2 3 3
 
 :::{card}
 :header: University of Tennessee, Chattanooga
