@@ -154,7 +154,7 @@ If you are interested in becoming a TennesseeView partner, please [contact us](h
 
 ::::
 
-## Private Sector
+## Private Sectors
 
 ::::{grid} 1 2 3 3
 

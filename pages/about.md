@@ -18,18 +18,29 @@ The goals of the TNView remote sensing consortium are to:
 
 ## Our Team
 
-### [Michael Camponovo](http://geography.utk.edu/about-us/faculty/michael-camponovo/)
+::::{grid} 1 2 2 2
 
-GIS Coordinator, Department of Geography, University of Tennessee at Knoxville
-[mcampono@utk.edu](mailto:mcampono@utk.edu)
-(865)974-5348
+:::{card}
+:header: **PI: [Qiusheng Wu](https://gishub.org)**
 
-### [Qiusheng Wu](https://geography.utk.edu/about-us/faculty/dr-qiusheng-wu/)
+![](./images/people/qiusheng-wu.webp)
 
-Associate Professor, Department of Geography, University of Tennessee
-TennesseeView Director
-[qwu18@utk.edu](mailto:qwu18@utk.edu)
-(865)221-8824
+Associate Professor, Department of Geography & Sustainability, University of Tennessee, Knoxville
+
+[qwu18@utk.edu](mailto:qwu18@utk.edu) | (865) 221-8824
+:::
+
+:::{card}
+:header: **Co-PI: [Michael Camponovo](https://geography.utk.edu/people/instructional-faculty/camponovo-michael)**
+
+![](./images/people/michael-camponovo.webp)
+
+GIS Coordinator, Department of Geography & Sustainability, University of Tennessee, Knoxville
+
+[mcampono@utk.edu](mailto:mcampono@utk.edu) | (865) 974-5348
+:::
+
+::::
 
 ## Interested?
 

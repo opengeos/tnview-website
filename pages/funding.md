@@ -1,5 +1,5 @@
 ---
-title: Student Funding
+title: Funding Opportunities
 ---
 
 # Student Funding Opportunities
