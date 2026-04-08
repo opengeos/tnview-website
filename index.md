@@ -4,9 +4,6 @@ subtitle: A Remote Sensing Consortium for Geospatial Research, Education, and Wo
 ---
 
 
-
-
-
 ## Quick Links
 
 :::::{grid} 1 1 3 3
@@ -25,12 +22,14 @@ Geospatial data resources for Tennessee, the U.S., and global use.
 ::::
 
 ::::{card}
-:link: https://tnview.gishub.org
+:link: https://tnview.org
 Web App
 ^^^
 Explore TNView web applications and interactive geospatial tools.
 ::::
 :::::
+
+![](pages/images/tn_dem.webp)
 
 ## Interested?
 
