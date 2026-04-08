@@ -1,6 +1,6 @@
 ---
-title: Website Title
-subtitle: Subtitle of the book
+title: TNView
+subtitle: A Tennessee Remote Sensing Consortium
 ---
 
 ## Introduction
