@@ -2,18 +2,35 @@
 title: About
 ---
 
-# About
+# Our Mission
 
-Welcome to this book. This preface provides an overview of what you will learn.
+TennesseeView (TNView) is an associate member of [AmericaView](https://americaview.org), a nationwide consortium of remote sensing scientists and educators. TNView was established in February 2022 based at the [Department of Geography](https://geography.utk.edu/) at the [University of Tennessee](https://www.utk.edu/), Knoxville.
 
-## Who This Book Is For
+The mission of TNView is to advance Earth observation research, education, outreach, and workforce development in the state of Tennessee.
 
-This book is for anyone interested in the topic.
+The goals of the TNView remote sensing consortium are to:
 
-## How to Use This Book
+- Create a cohesive remote sensing community to facilitate collaboration on remote sensing research, education, and training.
+- Promote and facilitate sharing of remote sensing data and computing resources.
+- Develop training materials and workshops to promote the use of remote sensing, cloud computing, and open-source software.
+- Increase the awareness of geospatial technology in STEM education and workforce development.
+- Provide remote sensing training for K-12 teachers and students.
 
-Each chapter builds on the previous one. Start from the beginning and work your way through.
+## Our Team
 
-## Acknowledgements
+### [Michael Camponovo](http://geography.utk.edu/about-us/faculty/michael-camponovo/)
 
-Thank you to everyone who contributed to this book.
+GIS Coordinator, Department of Geography, University of Tennessee at Knoxville
+[mcampono@utk.edu](mailto:mcampono@utk.edu)
+(865)974-5348
+
+### [Qiusheng Wu](https://geography.utk.edu/about-us/faculty/dr-qiusheng-wu/)
+
+Associate Professor, Department of Geography, University of Tennessee
+TennesseeView Director
+[qwu18@utk.edu](mailto:qwu18@utk.edu)
+(865)221-8824
+
+## Interested?
+
+If you are interested in becoming a TNView partner, please [contact us](contact.md).

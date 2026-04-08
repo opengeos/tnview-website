@@ -1,46 +1,50 @@
 ---
 title: TNView
-subtitle: A Tennessee Remote Sensing Consortium
+subtitle: A Remote Sensing Consortium for Geospatial Research, Education, and Workforce Development in Tennessee
 ---
 
-## Introduction
 
-Welcome to the official repository for _**Website Title**_. This repository contains all the code examples featured in the book.
 
----
 
-## Featured Projects
 
-::::{grid} 2 2 4 4
+## Quick Links
 
-:::{card}
-:link: https://mystmd.org
-![mystmd](pages/images/myst.webp)
-+++
-**MyST Markdown**
-:::
-
-:::{card}
-:link: https://jupyterbook.org
-![jupyter-book](pages/images/jupyter-book.webp)
-+++
-**Jupyter Book**
-:::
-
-:::{card}
-:link: https://jupyter.org
-![jupyter](pages/images/jupyter.webp)
-+++
-**Jupyter**
-:::
-
-:::{card}
-:link: https://python.org
-![python](pages/images/python.webp)
-+++
-**Python**
-:::
-
+:::::{grid} 1 1 3 3
+::::{card}
+:link: pages/resources.md
+Education
+^^^
+Workshops, videos, StoryMaps, and geospatial learning materials.
 ::::
 
----
+::::{card}
+:link: pages/data.md
+Data
+^^^
+Geospatial data resources for Tennessee, the U.S., and global use.
+::::
+
+::::{card}
+:link: https://tnview.gishub.org
+Web App
+^^^
+Explore TNView web applications and interactive geospatial tools.
+::::
+:::::
+
+## Interested?
+
+If you are interested in becoming a TNView partner, please contact us.
+
+[Contact](pages/contact.md)
+
+## Research
+
+Representative TNView research visualizations from the live site:
+
+- [Web GIS thumbnail](https://tnview.utk.edu/wp-content/uploads/2022/03/webgis-thumbnail.jpg)
+- [NAIP thumbnail](https://tnview.utk.edu/wp-content/uploads/2022/03/naip-thumbnail.jpg)
+- [Connectivity thumbnail](https://tnview.utk.edu/wp-content/uploads/2022/03/connectivity-thumbnail.jpg)
+- [Tools thumbnail](https://tnview.utk.edu/wp-content/uploads/2022/03/tools-thumbnail.jpg)
+- [Map thumbnail](https://tnview.utk.edu/wp-content/uploads/2022/03/map-thumbnail.jpg)
+- [Sinkhole thumbnail](https://tnview.utk.edu/wp-content/uploads/2022/03/sinkhole-thumbnail.jpg)

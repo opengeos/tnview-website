@@ -10,12 +10,12 @@ project:
     - .DS_Store
     - '**.ipynb_checkpoints'
   github: opengeos/tnview-website
-  thebe:
-    binder:
-      repo: opengeos/tnview-website
-      provider: github
-      url: https://mybinder.org
-      ref: main
+  # thebe:
+  #   binder:
+  #     repo: opengeos/tnview-website
+  #     provider: github
+      # url: https://mybinder.org
+      # ref: main
   bibliography:
     - pages/references.bib
   toc:
