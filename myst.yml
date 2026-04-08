@@ -24,6 +24,8 @@ project:
     - file: pages/news.md
     - file: pages/funding.md
     - file: pages/data.md
+    - file: pages/videos.md
+    - file: pages/books.md
     - file: pages/resources.md
     - file: pages/partners.md
     - file: pages/contact.md

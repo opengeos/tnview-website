@@ -1,5 +1,5 @@
 ---
-title: Data
+title: Geospatial Data
 ---
 
 # Data
