@@ -15,7 +15,7 @@ If you are interested in becoming a TennesseeView partner, please [contact us](h
 ::::{grid} 1 2 3 3
 
 :::{card}
-:header: University of Tennessee at Knoxville
+:header: University of Tennessee, Knoxville
 :footer: **Lead Institution**
 
 
@@ -29,7 +29,7 @@ If you are interested in becoming a TennesseeView partner, please [contact us](h
 :::
 
 :::{card}
-:header: University of Tennessee at Chattanooga
+:header: University of Tennessee, Chattanooga
 
 
 ![](./images/partners/UTC.webp)
