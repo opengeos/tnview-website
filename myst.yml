@@ -17,19 +17,17 @@ project:
       url: https://mybinder.org
       ref: main
   bibliography:
-    - book/references.bib
+    - pages/references.bib
   toc:
     - file: index.md
-    - title: Preface
-      children:
-        - file: book/preface.md
-    - title: Getting Started
-      children:
-        - file: book/part01/getting-started.md
-        - file: book/part01/installation.md
-    - title: Examples
-      children:
-        - file: book/part02/first-example.md
+    - file: pages/about.md
+    - file: pages/news.md
+    - file: pages/data.md
+    - file: pages/resources.md
+    - file: pages/funding.md
+    - file: pages/partners.md
+    - file: pages/contact.md
+
 site:
   options:
     logo: logo.png
