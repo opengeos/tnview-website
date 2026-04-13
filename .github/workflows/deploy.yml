@@ -44,8 +44,8 @@ jobs:
           cp CNAME ./_build/html/
           mkdir -p ./_build/html/images/
           mkdir -p ./_build/html/files/
-          cp pages/images/* ./_build/html/images/
-          cp pages/files/* ./_build/html/files/
+          cp -r pages/images/* ./_build/html/images/
+          cp -r pages/files/* ./_build/html/files/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
