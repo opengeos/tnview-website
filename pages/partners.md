@@ -6,9 +6,9 @@ title: Partners
 
 ## TNView Consortium Member Institutions and Organizations
 
-The TennesseeView Consortium has **30** individuals from **15** entities across the state of Tennessee, including nine academic institutions, four state and federal government entities, and one private company.
+The TennesseeView Consortium has **31** individuals from **15** entities across the state of Tennessee, including nine academic institutions, four state and federal government entities, and one private company.
 
-If you are interested in becoming a TennesseeView partner, please [contact us](https://tnview.utk.edu/contact/).
+If you are interested in becoming a TennesseeView partner, please [contact us](https://tnview.org/pages/contact/).
 
 ## Lead Institution
 
@@ -30,6 +30,8 @@ If you are interested in becoming a TennesseeView partner, please [contact us](h
 - [Yingkui Li](https://geography.utk.edu/people/instructional-faculty/li-yingkui)
 - [Liem Tran](https://geography.utk.edu/people/instructional-faculty/tran-liem) 
 - [Emine Fidan](https://utia.tennessee.edu/person/?id=11763) 
+- [Anna Marshall](https://geography.utk.edu/people/instructional-faculty/marshall-anna) 
+
 :::
 
 ::::

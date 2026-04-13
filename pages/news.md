@@ -194,5 +194,5 @@ TN Geographic Information Council State Conference April 12-14, 2022 at [Montgom
 
 **2022-02-28**
 
-The TennesseeView Director Dr. Qiusheng Wu was recently interviewed by [NASA Landsat Science](https://landsat.gsfc.nasa.gov/). Read more about the interview [here](https://tnview.utk.edu/qiusheng-wu-interviewed-by-nasa-landsat-science/).
+The TennesseeView Director Dr. Qiusheng Wu was recently interviewed by [NASA Landsat Science](https://landsat.gsfc.nasa.gov/). Read more about the interview [here](https://tnview.org/qiusheng-wu-interviewed-by-nasa-landsat-science/).
 
