@@ -33,4 +33,4 @@ Funding opportunities for Tennessee students working on remote sensing projects.
 
 ## Interested?
 
-If you are interested in becoming a TNView partner, please [contact us](pages/contact.md).
+If you are interested in becoming a TNView [partner](pages/partners), please [contact us](pages/contact.md).
