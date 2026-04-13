@@ -37,7 +37,7 @@ site:
     favicon: fav.ico
     folders: true
     style: custom.css
-    # analytics_google: G-XXX
+    analytics_google: G-68W59ZD13V
   template: book-theme
   parts:
     primary_sidebar_footer: '![](pages/images/logo_600px.webp)'
