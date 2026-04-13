@@ -28,6 +28,14 @@ jobs:
       - name: Build HTML Assets
         run: myst build --html
 
+      - name: Copy static files
+        run: |
+          cp CNAME ./_build/html/
+          mkdir -p ./_build/html/images/
+          mkdir -p ./_build/html/files/
+          cp -r pages/images/* ./_build/html/images/
+          cp -r pages/files/* ./_build/html/files/
+
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3.0
         with:
