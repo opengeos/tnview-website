@@ -30,9 +30,10 @@ If you are interested in becoming a TNView partner, please [contact us](https://
 - [Michael Camponovo](https://geography.utk.edu/people/instructional-faculty/camponovo-michael) (Co-PI)
 - [Hannah Herrero](https://geography.utk.edu/people/instructional-faculty/herrero-hannah)
 - [Yingkui Li](https://geography.utk.edu/people/instructional-faculty/li-yingkui)
-- [Liem Tran](https://geography.utk.edu/people/instructional-faculty/tran-liem) 
-- [Emine Fidan](https://utia.tennessee.edu/person/?id=11763) 
-- [Anna Marshall](https://geography.utk.edu/people/instructional-faculty/marshall-anna) 
+- [Liem Tran](https://geography.utk.edu/people/instructional-faculty/tran-liem)
+- [Emine Fidan](https://utia.tennessee.edu/person/?id=11763)
+- [Anna Marshall](https://geography.utk.edu/people/instructional-faculty/marshall-anna)
+- [Bing Zhou](https://geography.utk.edu/people/instructional-faculty/bing-zhou)
 
 :::
 
