@@ -38,6 +38,7 @@ If you are interested in becoming a TNView [partner](pages/partners), please [co
 ## Recent News
 
 - **2026-04-13** - Announced [TennesseeView Fellowships 2026](pages/funding/#tennesseeview-fellowships)
+- **2026-04-12** - Launched new TNView website <https://tnview.org>
 - **2026-03-31** - TNView PI Dr. Qiusheng Wu attended the [AmericaView Annual Meeting](https://americaview.org/conferences)
 
 [See all news →](./news)

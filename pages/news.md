@@ -16,6 +16,15 @@ TennesseeView is pleased to announce [fellowship opportunities](pages/funding) f
 
 ---
 
+**2026-04-12 - Launched New TNView Website**
+
+TennesseeView has launched a new website to showcase our activities and resources. The new website is built with MyST Markdown and Typst, and is hosted on GitHub Pages.
+
+- Website: <https://tnview.org>
+- GitHub Repository: <https://github.com/opengeos/tnview-website>
+
+---
+
 **2026-03-31 - TVNiew PI Dr. Qiusheng Wu Attended the AmericaView Annual Meeting**
 
 Dr. Qiusheng Wu attended the AmericaView Annual Meeting in San Antonio, TX from March 30 to April 1. He presented the [TNView Highlights 2025](https://tnview.org/files/GY24_TN_Highlights.pdf).
