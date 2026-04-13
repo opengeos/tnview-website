@@ -41,4 +41,4 @@ If you are interested in becoming a TNView [partner](pages/partners), please [co
 - **2026-04-12** - Launched new TNView website <https://tnview.org>
 - **2026-03-31** - TNView PI Dr. Qiusheng Wu attended the [AmericaView Annual Meeting](https://americaview.org/conferences)
 
-[See all news →](./news)
+[See all news →](./pages/news)
