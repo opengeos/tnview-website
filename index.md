@@ -34,3 +34,10 @@ Funding opportunities for Tennessee students working on remote sensing projects.
 ## Interested?
 
 If you are interested in becoming a TNView [partner](pages/partners), please [contact us](pages/contact.md).
+
+## Recent News
+
+- **2026-04-13** - Announced [TennesseeView Fellowships 2026](pages/funding/#tennesseeview-fellowships)
+- **2026-03-31** - TNView PI Dr. Qiusheng Wu attended the [AmericaView Annual Meeting](https://americaview.org/conferences)
+
+[See all news →](./news)
