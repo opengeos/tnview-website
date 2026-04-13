@@ -6,7 +6,7 @@ title: Partners
 
 ## TNView Consortium Member Institutions and Organizations
 
-The TennesseeView Consortium has **31** individuals from **15** entities across the state of Tennessee, including nine academic institutions, four state and federal government entities, and one private company.
+The TennesseeView Consortium has **30** individuals from **14** entities across the state of Tennessee, including nine academic institutions, four state and federal government entities, and one private company.
 
 If you are interested in becoming a TennesseeView partner, please [contact us](https://tnview.org/pages/contact/).
 
@@ -46,7 +46,7 @@ If you are interested in becoming a TennesseeView partner, please [contact us](h
 
 ![](./images/partners/UTC.webp)
 
-- [Charlie Mix](https://www.utc.edu/interdisciplinary-geospatial-technology-lab)
+- [Charlie Mix](https://www.utc.edu/research/center-for-applied-geospatial-data-science/utc-cagds-faculty-and-staff)
 - [Azad Hossain](https://www.utc.edu/directory/hrr794-biology-geology-and-environmental-science-azad-hossain/hrr794)
 :::
 
@@ -96,8 +96,8 @@ If you are interested in becoming a TennesseeView partner, please [contact us](h
 
 - [Clement Akumu](https://www.tnstate.edu/agriculture/resumes/clement_akumu.aspx)
 - [David Padgett](https://www.linkedin.com/in/david-padgett-a14b8a8/)
-- [Reginald Archer](https://www.tnstate.edu/agriculture/resumes/reginald_archer.aspx)
-- [Bharat Pokharel](https://www.tnstate.edu/agriculture/resumes/Bharat_Pokharel.aspx)
+- [Reginald Archer](https://www.tnstate.edu/environmentalsciences/profiles/reginald_archer.aspx)
+- [Bharat Pokharel](https://www.tnstate.edu/environmentalsciences/profiles/Bharat_Pokharel.aspx)
 :::
 
 :::{card}
@@ -107,7 +107,7 @@ If you are interested in becoming a TennesseeView partner, please [contact us](h
 ![](./images/partners/TNTech.webp)
 
 - [Joseph Asante](https://www.tntech.edu/directory/cas/earthsciences/joseph-asante.php)
-- [Samantha Allen](https://www.linkedin.com/in/samantha-allen-20317985/)
+- [Samantha Allen](https://www.tntech.edu/directory/ceis/ses/samantha-allen.php)
 :::
 
 :::{card}
@@ -116,8 +116,8 @@ If you are interested in becoming a TennesseeView partner, please [contact us](h
 
 ![](./images/partners/Vanderbilt.webp)
 
-- [Natalie Robbins](https://www.vanderbilt.edu/viigr/)
-- [Steven Wernke](https://wernkelab.org/?page_id=114)
+- [Natalie Robbins](https://as.vanderbilt.edu/anthropology/bio/natalie-robbins/)
+- [Steven Wernke](https://as.vanderbilt.edu/anthropology/bio/steven-wernke/)
 - [Stacy Curry-Johnson](https://researchguides.library.vanderbilt.edu/prf.php?account_id=181568)
 :::
 
@@ -146,22 +146,13 @@ If you are interested in becoming a TennesseeView partner, please [contact us](h
 :::
 
 :::{card}
-:header: TN Department of Transportation (TDOT)
-
-
-![](./images/partners/TDOT.webp)
-
-- [Jennifer Pramuk](https://www.linkedin.com/in/jpramuk/)
-:::
-
-:::{card}
 :header: USDA Forest Service
 
 
 ![](./images/partners/usfs.webp)
 
 - [Jane R. Foster](https://janefoster.weebly.com/)
-- [Todd Schroeder](https://www.srs.fs.usda.gov/staff/1036)
+- [Todd Schroeder](https://research.fs.usda.gov/about/people/todd.schroeder)
 :::
 
 ::::
