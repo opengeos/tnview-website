@@ -6,9 +6,11 @@ title: Partners
 
 ## TNView Consortium Member Institutions and Organizations
 
-The TennesseeView Consortium has **30** individuals from **14** entities across the state of Tennessee, including nine academic institutions, four state and federal government entities, and one private company.
+The TNView Consortium has **30** individuals from **14** entities across the state of Tennessee, including nine academic institutions, four state and federal government entities, and one private company.
 
-If you are interested in becoming a TennesseeView partner, please [contact us](https://tnview.org/pages/contact/).
+It is free to join the TNView Consortium as a partner. As a partner, you will have access to the TNView email list, and be invited to participate in TNView webinars and events.
+
+If you are interested in becoming a TNView partner, please [contact us](https://tnview.org/pages/contact/).
 
 ## Lead Institution
 

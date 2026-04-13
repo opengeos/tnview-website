@@ -20,5 +20,3 @@ title: Contact
 - [GitHub](https://github.com/giswqs)
 - [YouTube](https://youtube.com/@giswqs)
 - [LinkedIn](https://linkedin.com/in/giswqs)
-
-## Send Us a Message

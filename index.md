@@ -1,6 +1,6 @@
 ---
 title: TNView
-subtitle: A Remote Sensing Consortium for Geospatial Research, Education, and Workforce Development in Tennessee.
+subtitle: A Remote Sensing Consortium for Geospatial Research, Education, Outreach, and Workforce Development in Tennessee.
 ---
 
 
@@ -33,6 +33,4 @@ Explore TNView web applications and interactive geospatial tools.
 
 ## Interested?
 
-If you are interested in becoming a TNView partner, please contact us.
-
-[Contact](pages/contact.md)
+If you are interested in becoming a TNView partner, please [contact us](pages/contact.md).

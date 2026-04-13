@@ -30,14 +30,6 @@ title: Resources
 - [Choose Your Truth - Manipulating Maps](https://storymaps.arcgis.com/stories/0c5745167fb3462a93b53ae43b860d9b)
 - [Opioids in Tennessee](https://storymaps.arcgis.com/stories/92678e77f9f9467bbad17c06f68ac67b)
 
-## Videos
-
-- Google Earth Engine and geemap Python Tutorials (64 videos, 18 hours)
-- Geographic Software Design (38 videos, 18 hours)
-- Spatial Data Management with Google Earth Engine (20 videos, 10 hours)
-- Spatial Data Management with PostGIS (12 videos, 5 hours)
-- Python Tutorials for Geospatial Data Science (7 videos, 2.5 hours)
-
-## Notebooks
+## JupyterNotebooks
 
 - Over 150 Jupyter notebooks are available at [notebooks.gishub.org](https://notebooks.gishub.org).

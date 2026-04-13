@@ -2,7 +2,7 @@
 title: Funding Opportunities
 ---
 
-# Student Funding Opportunities
+# Funding Opportunities
 
 TennesseeView provides several funding opportunities for Tennessee students, including:
 

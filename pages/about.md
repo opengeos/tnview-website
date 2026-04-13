@@ -2,9 +2,11 @@
 title: About
 ---
 
-# Our Mission
+# About
 
-TennesseeView (TNView) is a member of [AmericaView](https://americaview.org), a nationwide consortium of remote sensing scientists and educators. TNView was established in February 2022 based at the [Department of Geography](https://geography.utk.edu/) at the [University of Tennessee](https://www.utk.edu/), Knoxville.
+## Our Mission
+
+TennesseeView (TNView) is a member of [AmericaView](https://americaview.org), a nationwide consortium of remote sensing scientists and educators. TNView was established in February 2022 based at the [Department of Geography & Sustainability](https://geography.utk.edu) at the [University of Tennessee](https://www.utk.edu/), Knoxville.
 
 The mission of TNView is to advance Earth observation research, education, outreach, and workforce development in the state of Tennessee.
 
@@ -15,6 +17,15 @@ The goals of the TNView remote sensing consortium are to:
 - Develop training materials and workshops to promote the use of remote sensing, cloud computing, and open-source software.
 - Increase the awareness of geospatial technology in STEM education and workforce development.
 - Provide remote sensing training for K-12 teachers and students.
+
+## Factsheets
+
+- [TNView Factsheet 2024](./files/GY23_TN_Factsheet.pdf)
+- [TNView Factsheet 2025](./files/GY24_TN_Factsheet.pdf)
+
+## Highlights
+
+- [TNView Highlights 2025](./files/GY24_TN_Highlights.pdf)
 
 ## Our Team
 

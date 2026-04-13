@@ -2,21 +2,11 @@
 title: Geospatial Data
 ---
 
-# Data
+# Geospatial Data
 
-## Geospatial Data for Tennessee & Beyond
+Below is a list of geospatial data resources for Tennessee, the U.S., and global use.
 
-The following list was retrieved from the [UTK GIS Lab](https://gislab.utk.edu/resources/data/).
-
-- Tennessee Data Sources
-- Local and Regional Data Sources
-- Local GIS Departments
-- US Federal Government
-- US Non-Government
-- Global and International Resources
-- Other Good Stuff
-
-### Tennessee Data Sources
+## Tennessee Data Sources
 
 | Name | Description |
 | --- | --- |
@@ -32,7 +22,7 @@ The following list was retrieved from the [UTK GIS Lab](https://gislab.utk.edu/r
 | [Opioid data](https://giswqs.github.io/Opioids-Tennessee) | Opioid data for Tennessee and the nation |
 | [Tennessee and Landsat by USGS](https://pubs.er.usgs.gov/publication/fs20223063) | Landsat resources for Tennessee by the [National Land Imaging Program](https://www.usgs.gov/programs/national-land-imaging-program) |
 
-### Local and Regional Data Sources
+## Local and Regional Data Sources
 
 | Name | Description |
 | --- | --- |
@@ -47,7 +37,7 @@ The following list was retrieved from the [UTK GIS Lab](https://gislab.utk.edu/r
 | [Virtual Alabama](https://virtual.alabama.gov/) | Portal for multi-agency Alabama data coordinated by Alabama Department of Homeland Security. Login is required but anyone with education email address (ending with .edu) can create a free account. |
 | [Florida Geographic Data Library](https://www.fgdl.org/metadataexplorer/explorer.jsp) | Comprehensive resource of state, federal and local datasets in Florida maintained by the University of Florida GeoPlan Center. |
 
-### Local GIS Departments
+## Local GIS Departments
 
 | Name | Description |
 | --- | --- |
@@ -57,7 +47,7 @@ The following list was retrieved from the [UTK GIS Lab](https://gislab.utk.edu/r
 | [Sevier County GIS](https://www.seviercountytn.org/geographical-information-system-gis.html) | Sevier County GIS collects, manages, and distributes county generated geographical data. |
 | [Tipton Country GIS Geo Hub](https://data-tiptoncountygis.hub.arcgis.com/) | The Tipton Country GIS Geo Hub offers any user to explore Interactive Mapping Websites, download GIS Data, examine County Statistics, view Story & PDF Maps, along with TCGIS Documents |
 
-### US Federal Government
+## US Federal Government
 
 | Name | Description |
 | --- | --- |
@@ -72,7 +62,7 @@ The following list was retrieved from the [UTK GIS Lab](https://gislab.utk.edu/r
 | [National Renewable Energy Laboratory GIS Data](https://www.nrel.gov/gis/data.html) | GIS resources relating to renewable energy including biomass, solar, geothermal and wind data. |
 | [USGS Earth Resources Observation and Science Center](https://eros.usgs.gov/find-data) | Collection of satellite and aerial imagery and derived products including land cover and fire maps. |
 
-### US Non-Government
+## US Non-Government
 
 | Name | Description |
 | --- | --- |
@@ -81,7 +71,7 @@ The following list was retrieved from the [UTK GIS Lab](https://gislab.utk.edu/r
 | [The Nature Conservancy’s Geospatial Conservation Atlas](https://geospatial.tnc.org/) | It includes web maps, apps, a map gallery, local initiative portals, conservation data, and other resources. |
 | [Open Topography](http://www.opentopography.org/) | Download high resolution topographic data in raster or point cloud formats. Most datasets are within US but some global availability. |
 
-### Global & International Resources
+## Global & International Resources
 
 | Name | Description |
 | --- | --- |
@@ -94,7 +84,7 @@ The following list was retrieved from the [UTK GIS Lab](https://gislab.utk.edu/r
 | [FAO GeoNetwork](http://www.fao.org/geonetwork/) | Global resource for maps, GIS data and imagery maintained by the Food and Agriculture Organization of the United Nations. |
 | [GADM Database of Global Administrative Areas](http://gadm.org/) | Administrative areas in this database are countries and lower level subdivisions such as provinces, departments, bibhag, bundeslander, daerah istimewa, fivondronana, krong, landsvæðun, opština, sous-préfectures, counties, and thana. |
 
-### Other Good Stuff
+## Other Good Stuff
 
 | Name | Description |
 | --- | --- |
