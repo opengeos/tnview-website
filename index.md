@@ -9,23 +9,23 @@ subtitle: A Remote Sensing Consortium for Geospatial Research, Education, Outrea
 :::::{grid} 1 1 3 3
 ::::{card}
 :link: pages/resources.md
-Education
+🎓 Education
 ^^^
 Workshops, videos, StoryMaps, and geospatial learning materials.
 ::::
 
 ::::{card}
 :link: pages/data.md
-Data
+🌍 Geospatial Data
 ^^^
 Geospatial data resources for Tennessee, the U.S., and global use.
 ::::
 
 ::::{card}
-:link: https://tnview.org
-Web App
+:link: pages/funding.md
+💰 Funding Opportunities
 ^^^
-Explore TNView web applications and interactive geospatial tools.
+Funding opportunities for Tennessee students working on remote sensing projects.
 ::::
 :::::
 
