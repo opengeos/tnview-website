@@ -17,7 +17,7 @@ The TennesseeView Fellowship Program aims to provide support, encouragement, and
 
 **Announcement**
 
-- [TennesseeView Fellowships 2026](https://tnview.org/TNView-Fellowships-2026.pdf)
+- [TennesseeView Fellowships 2026](https://tnview.org/files/TNView-Fellowships-2026.pdf)
 
 
 **Eligibility**

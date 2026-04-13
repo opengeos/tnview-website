@@ -6,6 +6,16 @@ title: News & Events
 :::{dropdown} 2026
 :open:
 
+**2026-04-13 - TennesseeView Student Fellowships 2026**
+
+TennesseeView is pleased to announce [fellowship opportunities](pages/funding) for Tennessee students working on projects that utilize remote sensing and Earth observation. We are offering a total of six fellowships: three for undergraduate students and the other three for graduate students.
+
+- [Flyer](https://tnview.org/files/TNView-Fellowships-2026.pdf)
+- [Application Form](https://tiny.utk.edu/tnview-apply)
+- Application Deadline: April 30, 2026
+
+---
+
 **2026-03-31 - TVNiew PI Dr. Qiusheng Wu Attended the AmericaView Annual Meeting**
 
 Dr. Qiusheng Wu attended the AmericaView Annual Meeting in San Antonio, TX from March 30 to April 1. He presented the [TNView Highlights 2025](https://tnview.org/files/GY24_TN_Highlights.pdf).
