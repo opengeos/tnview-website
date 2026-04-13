@@ -42,6 +42,8 @@ jobs:
       - name: Copy static files
         run: |
           cp CNAME ./_build/html/
+          mkdir -p ./_build/html/images/
+          mkdir -p ./_build/html/files/
           cp pages/images/* ./_build/html/images/
           cp pages/files/* ./_build/html/files/
 
