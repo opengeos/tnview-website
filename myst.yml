@@ -27,6 +27,22 @@ project:
     - file: pages/videos.md
     - file: pages/books.md
     - file: pages/resources.md
+      children:
+        - title: GeoAI
+          children:
+            - file: pages/geoai/01-download-data.md
+            - file: pages/geoai/02-visualization.md
+            - file: pages/geoai/03-training-data.md
+            - file: pages/geoai/04-image-recognition.md
+            - file: pages/geoai/05-object-detection.md
+            - file: pages/geoai/06-semantic-segmentation.md
+            - file: pages/geoai/07-instance-segmentation.md
+            - file: pages/geoai/08-image-translation.md
+            - file: pages/geoai/09-change-detection.md
+            - file: pages/geoai/10-pixel-regression.md
+            - file: pages/geoai/11-sam-geospatial.md
+            - file: pages/geoai/12-vision-language-models.md
+            - file: pages/geoai/13-foundation-models.md
     - file: pages/partners.md
     - file: pages/contact.md
 
