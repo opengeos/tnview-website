@@ -28,6 +28,20 @@ project:
     - file: pages/books.md
     - file: pages/resources.md
       children:
+        - title: Cloud-Native
+          children:
+            - file: pages/cloud-native/01-leafmap-intro.ipynb
+            - file: pages/cloud-native/02-cog-stac.ipynb
+            - file: pages/cloud-native/03-custom-stac.ipynb
+            - file: pages/cloud-native/04-read-parquet.ipynb
+            - file: pages/cloud-native/05-nasa-earth-data.ipynb
+            - file: pages/cloud-native/06-pixel-inspector.ipynb
+            - file: pages/cloud-native/07-maplibre-pmtiles.ipynb
+            - file: pages/cloud-native/08-add-geotiff.ipynb
+            - file: pages/cloud-native/09-zarr.ipynb
+            - file: pages/cloud-native/10-quackosm.ipynb
+            - file: pages/cloud-native/11-titiler-cmr.ipynb
+            - file: pages/cloud-native/12-hls-nasa-earthdata.ipynb
         - title: GeoAI
           children:
             - file: pages/geoai/01-download-data.md
