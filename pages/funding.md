@@ -66,6 +66,32 @@ Please contact Dr. Qiusheng Wu at [tnview@utk.edu](mailto:tnview@utk.edu).
 
 ## Student Research Webinars
 
+:::{dropdown} 2026
+
+### **Student Research Webinar 2026**
+
+- **Date:** Friday, August 28, 2026
+- **Time:** 10:00 AM - 12:00 PM (ET)
+- **Location:** Online via Zoom
+- **Registration:** [Zoom Registration Link](https://tennessee.zoom.us/j/82425436609?from=addon)
+
+**Agenda**
+
+- **10:00-10:20 AM** - Nancy Nthiga (University of Tennessee, Knoxville).
+  *Linking Invasive Plant Dynamics to Anthrax Risk in Dryland Ecosystems Using High-Resolution Remote Sensing: A Spatial Analysis of Opuntia stricta in Kenya*
+- **10:20-10:40 AM** - Caspar Alsobrooks (University of Tennessee at Chattanooga).
+  *Understanding the Impact of Urban Heat Islands on Potential Algal Blooms in the Tennessee River using GIS, Remote Sensing, and Machine Learning-Based Modeling*
+- **10:40-11:00 AM** - Savannah Blaze Jobkar (University of Tennessee, Knoxville).
+  *Deep Learning and Geospatial Approaches for Mapping Animal Feeding Operations in Tennessee*
+- **11:00-11:20 AM** - Adam Scott Williams (University of Tennessee at Chattanooga).
+  *Developing a Model Using Remotely-Sensed Vegetation Index and Temperature Data to Estimate Soil Moisture and Improve Drought Prediction in Central Chile*
+- **11:20-11:40 AM** - Nicolas Malagon (University of Tennessee, Knoxville).
+  *Visualizing Geomorphic Change Following a Dam Removal Along Citico Creek Using LiDAR-Derived DEMs*
+- **11:40-12:00 PM** - Samuel T. Jayroe (University of Tennessee at Chattanooga).
+  *Mapping Land Use/Land Cover in Chile to Better Understand the Habitat of Octodon Degu Using Multiscale Satellite Imagery*
+
+:::
+
 :::{dropdown} 2025
 
 ### **Student Research Webinar 2025**
