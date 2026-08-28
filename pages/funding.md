@@ -73,7 +73,7 @@ Please contact Dr. Qiusheng Wu at [tnview@utk.edu](mailto:tnview@utk.edu).
 - **Date:** Friday, August 28, 2026
 - **Time:** 10:00 AM - 12:00 PM (ET)
 - **Location:** Online via Zoom
-- **Registration:** [Zoom Registration Link](https://tennessee.zoom.us/j/82425436609?from=addon)
+- **Registration:** [Zoom Link](https://tennessee.zoom.us/j/82425436609?from=addon)
 
 **Agenda**
 
